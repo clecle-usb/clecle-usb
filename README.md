@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @clecle-usb
-- 👀 I’m interested in nsi
-- 🌱 I’m currently learning nsi
-- 💞️ I’m looking to collaborate on nsi
+- 👋 Hi, I’m @Macoto64
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning D/M Learning
+- 💞️ I’m looking to collaborate with friends
 - 📫 How to reach me ...
 
 <!---
